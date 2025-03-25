@@ -2,29 +2,33 @@
 
 ## Overview
 Memeverse is an AI-powered meme generator that allows users to create, share, and enjoy memes. The application provides a user-friendly interface for meme generation, along with features for user registration, sign-in, and community engagement.
-
+## Team Members
+Madhusudhan - 2410991391<br>
+Mayank Bishnoi - 2410991415<br>
+Mitarpal Grover - 2410991424<br>
+Mohit Sharma - 2410991425 <br>
+Nidhi - 240991447
 ## Project Structure
 The project is organized into the following directories and files:
 
 ```
 Memeverse
+├── docs
+│   └── planning.md                # Planning document outlining features and structure
 ├── src
 │   ├── assets
 │   │   ├── css
 │   │   │   └── style.css          # Styles for the application
 │   │   └── js
 │   │       └── script.js          # JavaScript for dynamic functionalities
-│   ├── pages
-│   │   ├── index.html             # Main landing page
-│   │   ├── about.html             # About page with project information
-│   │   ├── contact.html           # Contact form for user inquiries
-│   │   ├── signin.html            # Sign-in page for existing users
-│   │   └── signup.html            # Sign-up page for new users
-│   └── components
-│       ├── header.html            # Header component with navigation
-│       └── footer.html            # Footer component with copyright info
-├── README.md                       # Project documentation
-└── planning.md                     # Planning document outlining features and structure
+│   └── pages
+│       ├── index.html             # Main landing page
+│       ├── about.html             # About page with project information
+│       ├── contact.html           # Contact form for user inquiries
+│       ├── signin.html            # Sign-in page for existing users
+│       └── signup.html            # Sign-up page for new users
+│             
+└── README.md                      # Project documentation                    
 ```
 
 ## Features
@@ -35,7 +39,10 @@ Memeverse
 - **Responsive Design**: The application is designed to be responsive and user-friendly across devices.
 
 ## Setup Instructions
-1. Clone the repository to your local machine.
+1. Clone the repository to your local machine.<br>
+```
+ git clone https://github.com/MITARPALGROVER/memeverse.git 
+ ```
 2. Open the `index.html` file in a web browser to view the application.
 3. Ensure that all assets are correctly linked in the HTML files.
 
