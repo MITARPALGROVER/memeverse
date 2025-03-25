@@ -35,15 +35,6 @@ Memeverse is an AI-powered meme generator that allows users to create, share, an
   - Enables users to create a new account.
   - Includes a form for entering full name, email, password, and password confirmation.
 
-### 3. **Components**
-- **Header (`src/components/header.html`)**
-  - Contains the HTML structure for the header component.
-  - Includes the site title, tagline, and navigation links.
-
-- **Footer (`src/components/footer.html`)**
-  - Contains the HTML structure for the footer component.
-  - Includes copyright information.
-
 ## User Roles
 
 1. **Madhusudhan** - Coding and testing
