@@ -14,7 +14,8 @@ The project is organized into the following directories and files:
 ```
 Memeverse
 ├── docs
-│   └── planning.md                # Planning document outlining features and structure
+│   ├── planning.md               # Planning document outlining features and structure
+│   └── Design.md
 ├── src
 │   ├── assets
 │   │   ├── css
